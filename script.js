@@ -1,1 +1,1 @@
-/* */
+alert('it works!');
