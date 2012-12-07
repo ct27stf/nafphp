@@ -1,6 +1,7 @@
 {
     "name": "ct27stf/nafphp",
     "description": "Not A Framework written in PHP",
+    "homepage": "http://ct27stf.github.com/nafphp/",
     "require": {
         "php": ">=5.3.3",
         "symfony/class-loader": "2.1.*"
